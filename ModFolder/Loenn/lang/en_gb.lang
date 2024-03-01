@@ -1,0 +1,35 @@
+﻿#Custom Sprite Move Block
+entities.HoliaGiftMapPackHelper/CSMoveBlock.placements.name.up_steer_fast=Custom Sprite Move Block (Up, Steerable, Fast)
+entities.HoliaGiftMapPackHelper/CSMoveBlock.placements.name.up_steer_slow=Custom Sprite Move Block (Up, Steerable, Slow)
+entities.HoliaGiftMapPackHelper/CSMoveBlock.placements.name.up_nosteer_fast=Custom Sprite Move Block (Up, Fast)
+entities.HoliaGiftMapPackHelper/CSMoveBlock.placements.name.up_nosteer_slow=Custom Sprite Move Block (Up, Slow)
+entities.HoliaGiftMapPackHelper/CSMoveBlock.placements.name.down_steer_fast=Custom Sprite Move Block (Down, Steerable, Fast)
+entities.HoliaGiftMapPackHelper/CSMoveBlock.placements.name.down_steer_slow=Custom Sprite Move Block (Down, Steerable, Slow)
+entities.HoliaGiftMapPackHelper/CSMoveBlock.placements.name.down_nosteer_fast=Custom Sprite Move Block (Down, Fast)
+entities.HoliaGiftMapPackHelper/CSMoveBlock.placements.name.down_nosteer_slow=Custom Sprite Move Block (Down, Slow)
+entities.HoliaGiftMapPackHelper/CSMoveBlock.placements.name.right_steer_fast=Custom Sprite Move Block (Right, Steerable, Fast)
+entities.HoliaGiftMapPackHelper/CSMoveBlock.placements.name.right_steer_slow=Custom Sprite Move Block (Right, Steerable, Slow)
+entities.HoliaGiftMapPackHelper/CSMoveBlock.placements.name.right_nosteer_fast=Custom Sprite Move Block (Right, Fast)
+entities.HoliaGiftMapPackHelper/CSMoveBlock.placements.name.right_nosteer_slow=Custom Sprite Move Block (Right, Slow)
+entities.HoliaGiftMapPackHelper/CSMoveBlock.placements.name.left_steer_fast=Custom Sprite Move Block (Left, Steerable, Fast)
+entities.HoliaGiftMapPackHelper/CSMoveBlock.placements.name.left_steer_slow=Custom Sprite Move Block (Left, Steerable, Slow)
+entities.HoliaGiftMapPackHelper/CSMoveBlock.placements.name.left_nosteer_fast=Custom Sprite Move Block (Left, Fast)
+entities.HoliaGiftMapPackHelper/CSMoveBlock.placements.name.left_nosteer_slow=Custom Sprite Move Block (Left, Slow)
+entities.HoliaGiftMapPackHelper/CSMoveBlock.attributes.description.canSteer=Determines whether the Custom Sprite Move Block can be moved by the player.
+entities.HoliaGiftMapPackHelper/CSMoveBlock.attributes.description.fast=Changes the Custom Sprite Move Block between two speeds.
+entities.HoliaGiftMapPackHelper/CSMoveBlock.attributes.description.direction=Determines the direction the Custom Sprite Move Block moves in upon activation.
+entities.HoliaGiftMapPackHelper/CSMoveBlock.placements.name.up_steer_fast=Custom Sprite Move Block (Up, Steerable, Fast)
+
+#Flag Cassette Block
+entities.HoliaRhythmMapHelper/FlagCasBlock.placements.name.FlagCasBlock=Flag Cassette Block
+
+#Flag Cassette Block Manager
+entities.HoliaRhythmMapHelper/FlagCasBlockManager.placements.name.FlagCasBlockManager=Flag Cassette Block Manager
+
+#Pause Music Controller
+entities.HoliaRhythmMapHelper/PauseMusicController.placements.name.PauseMusicController=Pause Music Controller
+
+#Custom Sprite Flag Switch
+entities.HoliaRhythmMapHelper/CustomSpriteFlagSwitch.placements.name.both=Custom Sprite Flag Switch (Both)
+entities.HoliaRhythmMapHelper/CustomSpriteFlagSwitch.placements.name.ice=Custom Sprite Flag Switch (Set False Only)
+entities.HoliaRhythmMapHelper/CustomSpriteFlagSwitch.placements.name.fire=Custom Sprite Flag Switch (Set True Only)

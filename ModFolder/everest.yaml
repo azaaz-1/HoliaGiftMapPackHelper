@@ -1,0 +1,6 @@
+- Name: HoliaGiftMapPackHelper
+  Version: 0.1.0
+  DLL: HoliaGiftMapPackHelper.dll
+  Dependencies:
+    - Name: Everest
+      Version: 1.3971.0
