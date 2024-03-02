@@ -21,15 +21,15 @@ entities.HoliaGiftMapPackHelper/CSMoveBlock.attributes.description.direction=Det
 entities.HoliaGiftMapPackHelper/CSMoveBlock.placements.name.up_steer_fast=Custom Sprite Move Block (Up, Steerable, Fast)
 
 #Flag Cassette Block
-entities.HoliaRhythmMapHelper/FlagCasBlock.placements.name.FlagCasBlock=Flag Cassette Block
+entities.HoliaGiftMapPackHelper/FlagCasBlock.placements.name.FlagCasBlock=Flag Cassette Block
 
 #Flag Cassette Block Manager
-entities.HoliaRhythmMapHelper/FlagCasBlockManager.placements.name.FlagCasBlockManager=Flag Cassette Block Manager
+entities.HoliaGiftMapPackHelper/FlagCasBlockManager.placements.name.FlagCasBlockManager=Flag Cassette Block Manager
 
 #Pause Music Controller
-entities.HoliaRhythmMapHelper/PauseMusicController.placements.name.PauseMusicController=Pause Music Controller
+entities.HoliaGiftMapPackHelper/PauseMusicController.placements.name.PauseMusicController=Pause Music Controller
 
 #Custom Sprite Flag Switch
-entities.HoliaRhythmMapHelper/CustomSpriteFlagSwitch.placements.name.both=Custom Sprite Flag Switch (Both)
-entities.HoliaRhythmMapHelper/CustomSpriteFlagSwitch.placements.name.ice=Custom Sprite Flag Switch (Set False Only)
-entities.HoliaRhythmMapHelper/CustomSpriteFlagSwitch.placements.name.fire=Custom Sprite Flag Switch (Set True Only)
+entities.HoliaGiftMapPackHelper/CustomSpriteFlagSwitch.placements.name.both=Custom Sprite Flag Switch (Both)
+entities.HoliaGiftMapPackHelper/CustomSpriteFlagSwitch.placements.name.ice=Custom Sprite Flag Switch (Set False Only)
+entities.HoliaGiftMapPackHelper/CustomSpriteFlagSwitch.placements.name.fire=Custom Sprite Flag Switch (Set True Only)

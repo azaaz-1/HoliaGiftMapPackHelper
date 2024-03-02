@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Celeste.Mod.Entities;
 
 namespace Celeste.Mod.HoliaGiftMapPackHelper.Entities;
-[CustomEntity("HoliaRhythmMapHelper/PauseMusicController"), Tracked]
+[CustomEntity("HoliaGiftMapPackHelper/PauseMusicController"), Tracked]
 
 public class PauseMusicController : Entity
 {

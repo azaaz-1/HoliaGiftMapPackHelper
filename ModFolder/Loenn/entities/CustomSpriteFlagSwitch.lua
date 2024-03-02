@@ -1,6 +1,6 @@
 ﻿local coreToggle = {}
 
-coreToggle.name = "HoliaRhythmMapHelper/CustomSpriteFlagSwitch"
+coreToggle.name = "HoliaGiftMapPackHelper/CustomSpriteFlagSwitch"
 coreToggle.depth = 2000
 
 function coreToggle.texture(room, entity)

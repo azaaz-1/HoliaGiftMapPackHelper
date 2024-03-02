@@ -13,7 +13,7 @@ local depths = {
 }
 
 
-FlagCasBlock.name = "HoliaRhythmMapHelper/FlagCasBlock"
+FlagCasBlock.name = "HoliaGiftMapPackHelper/FlagCasBlock"
 FlagCasBlock.minimumSize = {16, 16}
 FlagCasBlock.fieldInformation = {
     index = {

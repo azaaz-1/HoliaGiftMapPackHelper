@@ -4,7 +4,7 @@ using Monocle;
 using Celeste.Mod.Entities;
 
 namespace Celeste.Mod.HoliaGiftMapPackHelper.Entities;
-[CustomEntity("HoliaRhythmMapHelper/FlagCasBlock"), Tracked]
+[CustomEntity("HoliaGiftMapPackHelper/FlagCasBlock"), Tracked]
 public class FlagCasBlock : Solid
 {
 	public enum Modes

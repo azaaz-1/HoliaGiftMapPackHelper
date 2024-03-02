@@ -1,6 +1,6 @@
 ﻿local FlagCasBlockManager =
 {
-    name = "HoliaRhythmMapHelper/FlagCasBlockManager",
+    name = "HoliaGiftMapPackHelper/FlagCasBlockManager",
     placements =
     {
         {

@@ -1,6 +1,6 @@
 ﻿local PauseMusicController =
 {
-    name = "HoliaRhythmMapHelper/PauseMusicController",
+    name = "HoliaGiftMapPackHelper/PauseMusicController",
     placements =
     {
         {

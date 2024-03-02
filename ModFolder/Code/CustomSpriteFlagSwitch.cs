@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Celeste.Mod.Entities;
 
 namespace Celeste.Mod.HoliaGiftMapPackHelper.Entities;
-[CustomEntity("HoliaRhythmMapHelper/CustomSpriteFlagSwitch"), Tracked]
+[CustomEntity("HoliaGiftMapPackHelper/CustomSpriteFlagSwitch"), Tracked]
 public class CustomSpriteFlagSwitch : Entity
 {
 	private const float Cooldown = 1f;

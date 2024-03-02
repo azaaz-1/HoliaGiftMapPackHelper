@@ -3,7 +3,7 @@ using Monocle;
 using Celeste.Mod.Entities;
 
 namespace Celeste.Mod.HoliaGiftMapPackHelper.Entities;
-[CustomEntity("HoliaRhythmMapHelper/FlagCasBlockManager"), Tracked]
+[CustomEntity("HoliaGiftMapPackHelper/FlagCasBlockManager"), Tracked]
 public class CassetteBlockManager : Entity
 {
 	private int currentIndex;
